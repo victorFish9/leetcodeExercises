@@ -11,4 +11,3 @@ var chunk = function (arr, size) {
     return result
 };
 
-chunk([1, 2, 3, 4, 5], 1)
